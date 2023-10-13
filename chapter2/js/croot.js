@@ -1,7 +1,7 @@
-import {map} from './config/peta.js';
-import {onClosePopupClick,onDeleteMarkerClick,onSubmitMarkerClick,onMapClick,onMapPointerMove,disposePopover} from './controller/popup.js';
+import {map} from '../js/config/peta.js';
+import {onClosePopupClick,onDeleteMarkerClick,onSubmitMarkerClick,onMapClick,onMapPointerMove,disposePopover} from '../js/controller/popup.js';
 import {onClick} from 'https://jscroot.github.io/element/croot.js';
-import {getAllCoordinates} from './controller/cog.js';
+import {getAllCoordinates} from '../js/controller/cog.js';
 
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("pointTable").getElementsByTagName('tbody')[0];
