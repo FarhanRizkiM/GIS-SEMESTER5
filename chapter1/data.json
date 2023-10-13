@@ -1,0 +1,3337 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 1"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79541925994101,
+                    -6.490335605219656
+                ],
+                "type": "Point"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 2"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79552982593793,
+                    -6.490329666982845
+                ],
+                "type": "Point"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 3"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.7956194740434,
+                    -6.490305914037492
+                ],
+                "type": "Point"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 4"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79572406349945,
+                    -6.490329666982845
+                ],
+                "type": "Point"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 5"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79584359430754,
+                    -6.4902940375631175
+                ],
+                "type": "Point"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 6"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79596910165515,
+                    -6.490308883156047
+                ],
+                "type": "Point"
+            },
+            "id": 5
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 7"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79605576149021,
+                    -6.490394987579876
+                ],
+                "type": "Point"
+            },
+            "id": 6
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 8"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79616931575629,
+                    -6.490371234636342
+                ],
+                "type": "Point"
+            },
+            "id": 7
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 9"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79541627166975,
+                    -6.490479607429236
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 10"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79552683766667,
+                    -6.490458823607398
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 11"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79561947404125,
+                    -6.490441008902408
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 12"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.7956822277157,
+                    -6.490461792725043
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 13"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79575693447043,
+                    -6.490473669194159
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 14 "
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79583462949432,
+                    -6.490443978020153
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 15 "
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79599001954455,
+                    -6.490476638311691
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 16 "
+            },
+            "geometry": {
+                "coordinates": [
+                    106.7961723040246,
+                    -6.490541958888443
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 17 "
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79532333925573,
+                    -6.490638751457837
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 18 "
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79551160027648,
+                    -6.4906417205744305
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 19 "
+            },
+            "geometry": {
+                "coordinates": [
+                    106.7957446853506,
+                    -6.490659535272272
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 20"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.7958881223193,
+                    -6.490612029410315
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 21 "
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79560124838196,
+                    -6.490549677958583
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 22"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.7953323040656,
+                    -6.49076048521448
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 23 "
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79548769411463,
+                    -6.490748608752114
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 24"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.7956161897327,
+                    -6.49076048521448
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 25 "
+            },
+            "geometry": {
+                "coordinates": [
+                    106.7958881223193,
+                    -6.490704072014793
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 26"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79610028950202,
+                    -6.490674380853164
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 27"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.7953550209262,
+                    -6.490890997646204
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 28"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79549108655726,
+                    -6.49088485248987
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 29"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79562405978868,
+                    -6.490857199287902
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 30"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79576940262262,
+                    -6.490866417021664
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 31"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79588382144965,
+                    -6.490829546083148
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 32"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79594257706373,
+                    -6.490798820299446
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 33"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79613739830876,
+                    -6.490783457406906
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 34"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79620233872464,
+                    -6.490768094513925
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 35"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79628892594457,
+                    -6.490761949356028
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 36"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.7953550209262,
+                    -6.490989320131277
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 37"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79550654856064,
+                    -6.490983174976094
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 38"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79564879899493,
+                    -6.490983174976094
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 39"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79577249502358,
+                    -6.490964739511483
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 40"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79588382144965,
+                    -6.490955521778247
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 41"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79600133267769,
+                    -6.490937086312599
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 42"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79611884390442,
+                    -6.490967812089167
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 43"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79620852352656,
+                    -6.490961666933771
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 44"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79626418673962,
+                    -6.490964739511483
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 45"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.7952869881093,
+                    -6.491109150632752
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 46"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79537357533053,
+                    -6.4911152957864005
+                ],
+                "type": "Point"
+            },
+            "id": 45
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 47"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79549417895817,
+                    -6.491121440938656
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 48 "
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79567663060112,
+                    -6.491116832073303
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 49"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79577249502256,
+                    -6.491116832073303
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "rumah 50"
+            },
+            "geometry": {
+                "coordinates": [
+                    106.79591474545674,
+                    -6.491089178882817
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 1"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.7949974999126,
+                        -6.489714819534456
+                    ],
+                    [
+                        106.79491211853019,
+                        -6.490015595502598
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 50
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 2"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79310589534055,
+                        -6.489355316866039
+                    ],
+                    [
+                        106.79313246775189,
+                        -6.4899808825456375
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 3"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79286247773194,
+                        -6.4889194842516105
+                    ],
+                    [
+                        106.79317931698455,
+                        -6.489053741225305
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 4"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79287179653232,
+                        -6.488947261559318
+                    ],
+                    [
+                        106.79280190552134,
+                        -6.48920651635801
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": 53
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 5"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.7931839763857,
+                        -6.48909077762498
+                    ],
+                    [
+                        106.79315601998093,
+                        -6.4893222550633425
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 6"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79282520252502,
+                        -6.48922040500409
+                    ],
+                    [
+                        106.79311874477588,
+                        -6.48933614370624
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 7"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79324454859636,
+                        -6.489067629875635
+                    ],
+                    [
+                        106.793677872871,
+                        -6.489169479965739
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 8 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.7937337856805,
+                        -6.489169479965739
+                    ],
+                    [
+                        106.79397141511993,
+                        -6.489303736872813
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 9 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79401334972607,
+                        -6.489312995968163
+                    ],
+                    [
+                        106.79435348598423,
+                        -6.489470400567896
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 10 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79439076119121,
+                        -6.48948891875331
+                    ],
+                    [
+                        106.7947635132553,
+                        -6.489637064208907
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 11"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79482408546392,
+                        -6.489646323299084
+                    ],
+                    [
+                        106.79501046149693,
+                        -6.489697248288252
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 12 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79316067938203,
+                        -6.4899981685750845
+                    ],
+                    [
+                        106.79333773661284,
+                        -6.4902435342152955
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 13"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79337389891987,
+                        -6.490280944922333
+                    ],
+                    [
+                        106.79346863818267,
+                        -6.490453520377244
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 14"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79340021538138,
+                        -6.490484897726503
+                    ],
+                    [
+                        106.7932633697788,
+                        -6.490568570648762
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 15"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79330547611852,
+                        -6.49062609577409
+                    ],
+                    [
+                        106.79366864329381,
+                        -6.490913721304565
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 16"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79367916987707,
+                        -6.4909660168382
+                    ],
+                    [
+                        106.79390549144972,
+                        -6.4914314468447145
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 17"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79394233449676,
+                        -6.491478512776482
+                    ],
+                    [
+                        106.7940897066826,
+                        -6.491713842369478
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 18 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79413181302243,
+                        -6.491703383279116
+                    ],
+                    [
+                        106.79451603336645,
+                        -6.4916406287304795
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 19 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79456866628948,
+                        -6.491604021906426
+                    ],
+                    [
+                        106.79453182324238,
+                        -6.4912379535229405
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 20 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.7945423498279,
+                        -6.491159510263316
+                    ],
+                    [
+                        106.79466340555228,
+                        -6.490845737102802
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 21 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.7946897220138,
+                        -6.490782982447257
+                    ],
+                    [
+                        106.79480551444544,
+                        -6.490443061260734
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 22 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79481604103086,
+                        -6.4904012247914835
+                    ],
+                    [
+                        106.79490551700098,
+                        -6.4900717624717
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 23 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79278441017414,
+                        -6.488936946164884
+                    ],
+                    [
+                        106.79232124044336,
+                        -6.488936946164884
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 24"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79226334422754,
+                        -6.48895786446127
+                    ],
+                    [
+                        106.79187386059073,
+                        -6.489041537637206
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 25"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79183175425322,
+                        -6.489072915074459
+                    ],
+                    [
+                        106.79168964535785,
+                        -6.4891252107981074
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 26"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79172648840495,
+                        -6.489151358659058
+                    ],
+                    [
+                        106.79177912132792,
+                        -6.4892402613730695
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 27"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79174227828315,
+                        -6.489245490944413
+                    ],
+                    [
+                        106.79164753902035,
+                        -6.489271638797959
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 28 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79167911877528,
+                        -6.489313475364128
+                    ],
+                    [
+                        106.7913975326332,
+                        -6.489465132877157
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 29"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.7913946955328,
+                        -6.489493853941298
+                    ],
+                    [
+                        106.79192770661518,
+                        -6.489407109783201
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 30"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.7914222650715,
+                        -6.489539508755513
+                    ],
+                    [
+                        106.79146821430203,
+                        -6.489676473172253
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 31"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79151416353454,
+                        -6.489667342211646
+                    ],
+                    [
+                        106.7918082386135,
+                        -6.4896171219292285
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 32"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79187716255399,
+                        -6.489630818479924
+                    ],
+                    [
+                        106.79220340209508,
+                        -6.489443633750128
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 33"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79224016148066,
+                        -6.4894299373037825
+                    ],
+                    [
+                        106.79239638886605,
+                        -6.489671907801451
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 34"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.7924101736345,
+                        -6.489685604241174
+                    ],
+                    [
+                        106.79261694517572,
+                        -6.489804306703135
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 35"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79259912298716,
+                        -6.489822262094123
+                    ],
+                    [
+                        106.79273008220594,
+                        -6.490237538600411
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 36"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79263813211662,
+                        -6.489825030605502
+                    ],
+                    [
+                        106.79291119602044,
+                        -6.4901267982325805
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 37"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79294184605021,
+                        -6.490165557364634
+                    ],
+                    [
+                        106.79308395073286,
+                        -6.490348278945035
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 38"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79311181439834,
+                        -6.490362121486086
+                    ],
+                    [
+                        106.79324834634798,
+                        -6.490569759558838
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 39 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79273286857244,
+                        -6.490251381145669
+                    ],
+                    [
+                        106.79286940052441,
+                        -6.490528231951643
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 40"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79288191670798,
+                        -6.490546666330459
+                    ],
+                    [
+                        106.79301955251145,
+                        -6.4908201735164255
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 41"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79304707967287,
+                        -6.490850563194115
+                    ],
+                    [
+                        106.79322447693107,
+                        -6.4911848495332265
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 42"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79325050813299,
+                        -6.491192130401231
+                    ],
+                    [
+                        106.79339457577106,
+                        -6.491144415714032
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 43 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79327976012928,
+                        -6.4906101848361715
+                    ],
+                    [
+                        106.79334934536814,
+                        -6.490931682126529
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 44"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79336326241531,
+                        -6.490948966921067
+                    ],
+                    [
+                        106.79342240986921,
+                        -6.491128728752642
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 45"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79347459879722,
+                        -6.4911114439627795
+                    ],
+                    [
+                        106.79366247894092,
+                        -6.4910181060947565
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 46"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79343490925578,
+                        -6.491149554563705
+                    ],
+                    [
+                        106.7935338674709,
+                        -6.491340636680036
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 47 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79354879407742,
+                        -6.491359081633149
+                    ],
+                    [
+                        106.79363094806632,
+                        -6.491531612019358
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 48"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79364401802007,
+                        -6.49154830850479
+                    ],
+                    [
+                        106.79371310205505,
+                        -6.491731969812548
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 49"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.79368882928696,
+                        -6.491032572354641
+                    ],
+                    [
+                        106.79382513022239,
+                        -6.491340529975503
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "jalan 50"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        106.7938363330399,
+                        -6.491375778125061
+                    ],
+                    [
+                        106.79402117951633,
+                        -6.491707852674864
+                    ]
+                ],
+                "type": "LineString"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 1"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79247897781863,
+                            -6.490645384333092
+                        ],
+                        [
+                            106.79249976583645,
+                            -6.490713703964005
+                        ],
+                        [
+                            106.79259251237687,
+                            -6.4906819273921315
+                        ],
+                        [
+                            106.79257332343747,
+                            -6.490618374244974
+                        ],
+                        [
+                            106.79247897781863,
+                            -6.490645384333092
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 2"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79252535108952,
+                            -6.490710526306771
+                        ],
+                        [
+                            106.79253814371538,
+                            -6.490777257099111
+                        ],
+                        [
+                            106.7926308902558,
+                            -6.490759779987613
+                        ],
+                        [
+                            106.79260050776895,
+                            -6.490683516220784
+                        ],
+                        [
+                            106.79252535108952,
+                            -6.490710526306771
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 3"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79272938025298,
+                            -6.49078963818242
+                        ],
+                        [
+                            106.79274734842335,
+                            -6.4908535331065025
+                        ],
+                        [
+                            106.79290906195234,
+                            -6.490809370439081
+                        ],
+                        [
+                            106.79289014808944,
+                            -6.490743596246546
+                        ],
+                        [
+                            106.79272938025298,
+                            -6.49078963818242
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 4"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.7927360001047,
+                            -6.490876084254353
+                        ],
+                        [
+                            106.79275113119621,
+                            -6.490968168097666
+                        ],
+                        [
+                            106.7928163840229,
+                            -6.490955952894936
+                        ],
+                        [
+                            106.79279179600081,
+                            -6.490867627574289
+                        ],
+                        [
+                            106.7927360001047,
+                            -6.490876084254353
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 5 "
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79261778846075,
+                            -6.490924005440391
+                        ],
+                        [
+                            106.79262440831258,
+                            -6.49101327038214
+                        ],
+                        [
+                            106.79266318173217,
+                            -6.491008572227372
+                        ],
+                        [
+                            106.79266507311866,
+                            -6.4909794436691755
+                        ],
+                        [
+                            106.79273127163941,
+                            -6.490971926621015
+                        ],
+                        [
+                            106.79273316302584,
+                            -6.49091930728477
+                        ],
+                        [
+                            106.79261778846075,
+                            -6.490924005440391
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 6"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79214700772445,
+                            -6.490654911984947
+                        ],
+                        [
+                            106.79217946998347,
+                            -6.490728104170273
+                        ],
+                        [
+                            106.79221193224254,
+                            -6.490714458170501
+                        ],
+                        [
+                            106.79217197869457,
+                            -6.490643747074685
+                        ],
+                        [
+                            106.79214700772445,
+                            -6.490654911984947
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 7"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79222566627499,
+                            -6.490705774351625
+                        ],
+                        [
+                            106.79225563143711,
+                            -6.490778966530556
+                        ],
+                        [
+                            106.79233054434326,
+                            -6.490750433986946
+                        ],
+                        [
+                            106.79229933063164,
+                            -6.490672279623325
+                        ],
+                        [
+                            106.79222566627499,
+                            -6.490705774351625
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 8"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79229059079319,
+                            -6.490769042167372
+                        ],
+                        [
+                            106.7923068219227,
+                            -6.490829828884742
+                        ],
+                        [
+                            106.79241169999085,
+                            -6.490808739616895
+                        ],
+                        [
+                            106.79239671740885,
+                            -6.490747952897053
+                        ],
+                        [
+                            106.79229059079319,
+                            -6.490769042167372
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 9"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79210580562687,
+                            -6.490687166169806
+                        ],
+                        [
+                            106.79212453385338,
+                            -6.490746712351566
+                        ],
+                        [
+                            106.79216448740351,
+                            -6.490724382533742
+                        ],
+                        [
+                            106.792145759177,
+                            -6.490674760714569
+                        ],
+                        [
+                            106.79210580562687,
+                            -6.490687166169806
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 10"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79216323885402,
+                            -6.490770282712788
+                        ],
+                        [
+                            106.79216573595096,
+                            -6.490781447620293
+                        ],
+                        [
+                            106.79218945837152,
+                            -6.49081370179708
+                        ],
+                        [
+                            106.7922406488571,
+                            -6.490781447620293
+                        ],
+                        [
+                            106.79221567788909,
+                            -6.490738028533258
+                        ],
+                        [
+                            106.79216323885402,
+                            -6.490770282712788
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 11"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79219445256552,
+                            -6.490808739616895
+                        ],
+                        [
+                            106.79219819821003,
+                            -6.490819904523548
+                        ],
+                        [
+                            106.79221567788909,
+                            -6.490853399243079
+                        ],
+                        [
+                            106.79228434805168,
+                            -6.490836031610954
+                        ],
+                        [
+                            106.79227560821317,
+                            -6.490787650347215
+                        ],
+                        [
+                            106.79219445256552,
+                            -6.490808739616895
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 12"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79200467320521,
+                            -6.4908174234329294
+                        ],
+                        [
+                            106.79203713546428,
+                            -6.490875729054167
+                        ],
+                        [
+                            106.79211204837043,
+                            -6.4908422343361
+                        ],
+                        [
+                            106.79207459191736,
+                            -6.490777725985197
+                        ],
+                        [
+                            106.79200467320521,
+                            -6.4908174234329294
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 13"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.7922294119216,
+                            -6.490859601968012
+                        ],
+                        [
+                            106.79224689159861,
+                            -6.490993580821126
+                        ],
+                        [
+                            106.79226686837262,
+                            -6.490986137552937
+                        ],
+                        [
+                            106.79227186256662,
+                            -6.491055608056001
+                        ],
+                        [
+                            106.79233678708465,
+                            -6.491046924244074
+                        ],
+                        [
+                            106.79233054434326,
+                            -6.490857120877621
+                        ],
+                        [
+                            106.7922294119216,
+                            -6.490859601968012
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 14"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79233928418176,
+                            -6.490822385614138
+                        ],
+                        [
+                            106.79237549208523,
+                            -6.49100102409021
+                        ],
+                        [
+                            106.79248411579795,
+                            -6.490976213193832
+                        ],
+                        [
+                            106.79248536434756,
+                            -6.490961326655821
+                        ],
+                        [
+                            106.79256402289809,
+                            -6.490942718483538
+                        ],
+                        [
+                            106.79254529467153,
+                            -6.490849677607471
+                        ],
+                        [
+                            106.79243916805592,
+                            -6.490868285784245
+                        ],
+                        [
+                            106.79242793112041,
+                            -6.49080998016116
+                        ],
+                        [
+                            106.79233928418176,
+                            -6.490822385614138
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 15"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79202464998139,
+                            -6.490970010470363
+                        ],
+                        [
+                            106.79208707740031,
+                            -6.491195789578853
+                        ],
+                        [
+                            106.79218945837152,
+                            -6.491166016515365
+                        ],
+                        [
+                            106.79212453385338,
+                            -6.49093899684857
+                        ],
+                        [
+                            106.79202464998139,
+                            -6.490970010470363
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 16"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.7921693296276,
+                            -6.4909515993294775
+                        ],
+                        [
+                            106.79215839869624,
+                            -6.491067965690661
+                        ],
+                        [
+                            106.79222554584896,
+                            -6.491080378100477
+                        ],
+                        [
+                            106.79223023053447,
+                            -6.490953150881239
+                        ],
+                        [
+                            106.7921693296276,
+                            -6.4909515993294775
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 17"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79219743773899,
+                            -6.49107727499775
+                        ],
+                        [
+                            106.79219743773899,
+                            -6.491130027739246
+                        ],
+                        [
+                            106.79225209239848,
+                            -6.491134682391575
+                        ],
+                        [
+                            106.79226614645347,
+                            -6.4910912389599815
+                        ],
+                        [
+                            106.79219743773899,
+                            -6.49107727499775
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 18"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79227395426255,
+                            -6.4910896874086035
+                        ],
+                        [
+                            106.79228488519391,
+                            -6.491150197903309
+                        ],
+                        [
+                            106.7923083086198,
+                            -6.491148646352187
+                        ],
+                        [
+                            106.79229425456487,
+                            -6.491080378100477
+                        ],
+                        [
+                            106.79227395426255,
+                            -6.4910896874086035
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 19"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79234734766254,
+                            -6.491047795523272
+                        ],
+                        [
+                            106.79234578610078,
+                            -6.4911982959828975
+                        ],
+                        [
+                            106.79241449481526,
+                            -6.4911982959828975
+                        ],
+                        [
+                            106.79240512544567,
+                            -6.491047795523272
+                        ],
+                        [
+                            106.79234734766254,
+                            -6.491047795523272
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 20"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79241917950071,
+                            -6.4910291769065935
+                        ],
+                        [
+                            106.79242542574798,
+                            -6.491117615329344
+                        ],
+                        [
+                            106.79251287320295,
+                            -6.491111409125594
+                        ],
+                        [
+                            106.79250350383342,
+                            -6.491027625355045
+                        ],
+                        [
+                            106.79241917950071,
+                            -6.4910291769065935
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 21"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79243167199394,
+                            -6.491140888596334
+                        ],
+                        [
+                            106.79244416448847,
+                            -6.491185883576023
+                        ],
+                        [
+                            106.79252224257385,
+                            -6.491167264964432
+                        ],
+                        [
+                            106.79251443476477,
+                            -6.4911269246367596
+                        ],
+                        [
+                            106.79243167199394,
+                            -6.491140888596334
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 22"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79263311345466,
+                            -6.4910183160471036
+                        ],
+                        [
+                            106.79266434468832,
+                            -6.491128476188024
+                        ],
+                        [
+                            106.7927720924456,
+                            -6.4911036513691585
+                        ],
+                        [
+                            106.79273617652649,
+                            -6.490995042774458
+                        ],
+                        [
+                            106.79263311345466,
+                            -6.4910183160471036
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 23"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79276428463788,
+                            -6.490984181912893
+                        ],
+                        [
+                            106.79277521556924,
+                            -6.491038486215658
+                        ],
+                        [
+                            106.7928314317906,
+                            -6.491032280009662
+                        ],
+                        [
+                            106.7928267471051,
+                            -6.490971769500717
+                        ],
+                        [
+                            106.79276428463788,
+                            -6.490984181912893
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 24"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79297862849637,
+                            -6.490952494868168
+                        ],
+                        [
+                            106.79302079066275,
+                            -6.491090582947038
+                        ],
+                        [
+                            106.79309418406274,
+                            -6.491076618984806
+                        ],
+                        [
+                            106.79304733721091,
+                            -6.490935427799798
+                        ],
+                        [
+                            106.79297862849637,
+                            -6.490952494868168
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 25"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79281310295602,
+                            -6.491087479844339
+                        ],
+                        [
+                            106.79283028013464,
+                            -6.491157299644968
+                        ],
+                        [
+                            106.79291772758961,
+                            -6.491134026378717
+                        ],
+                        [
+                            106.79289742728736,
+                            -6.491061103472077
+                        ],
+                        [
+                            106.79281310295602,
+                            -6.491087479844339
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 26"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79284745731326,
+                            -6.491160402747255
+                        ],
+                        [
+                            106.79285838824472,
+                            -6.491244186494356
+                        ],
+                        [
+                            106.79295832819417,
+                            -6.491220913233477
+                        ],
+                        [
+                            106.79294115101555,
+                            -6.491135577929953
+                        ],
+                        [
+                            106.79284745731326,
+                            -6.491160402747255
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 27"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79268349333472,
+                            -6.491152644991502
+                        ],
+                        [
+                            106.79269130114244,
+                            -6.491222464783078
+                        ],
+                        [
+                            106.7928115413942,
+                            -6.491194536868164
+                        ],
+                        [
+                            106.79278967953019,
+                            -6.491126268623972
+                        ],
+                        [
+                            106.79268349333472,
+                            -6.491152644991502
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 28"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79244769751665,
+                            -6.49119919152119
+                        ],
+                        [
+                            106.79245706688755,
+                            -6.491270562857068
+                        ],
+                        [
+                            106.79247580562799,
+                            -6.491270562857068
+                        ],
+                        [
+                            106.7924929828066,
+                            -6.491355898136391
+                        ],
+                        [
+                            106.79254763746621,
+                            -6.49133417642993
+                        ],
+                        [
+                            106.79254607590434,
+                            -6.491295387667691
+                        ],
+                        [
+                            106.79260229212565,
+                            -6.491279872160362
+                        ],
+                        [
+                            106.79259448431793,
+                            -6.491244186494356
+                        ],
+                        [
+                            106.79254763746621,
+                            -6.491244186494356
+                        ],
+                        [
+                            106.79252577560209,
+                            -6.491175918256872
+                        ],
+                        [
+                            106.79244769751665,
+                            -6.49119919152119
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 29"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79255544527518,
+                            -6.491300042318443
+                        ],
+                        [
+                            106.79256012995933,
+                            -6.49132641867827
+                        ],
+                        [
+                            106.79258667650885,
+                            -6.491321764026424
+                        ],
+                        [
+                            106.79258979963248,
+                            -6.491295387667691
+                        ],
+                        [
+                            106.79255544527518,
+                            -6.491300042318443
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 30"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79273034018513,
+                            -6.491251944248631
+                        ],
+                        [
+                            106.7927756254752,
+                            -6.491354346585837
+                        ],
+                        [
+                            106.79281622607965,
+                            -6.491338831081663
+                        ],
+                        [
+                            106.7927803101606,
+                            -6.49124573804518
+                        ],
+                        [
+                            106.79273034018513,
+                            -6.491251944248631
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 31"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79263508492113,
+                            -6.491312454723882
+                        ],
+                        [
+                            106.79265538522338,
+                            -6.491379171392381
+                        ],
+                        [
+                            106.79273346330876,
+                            -6.49135744968693
+                        ],
+                        [
+                            106.79272097081565,
+                            -6.491293836116981
+                        ],
+                        [
+                            106.79263508492113,
+                            -6.491312454723882
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 32"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79234619600669,
+                            -6.491227119435848
+                        ],
+                        [
+                            106.79236961943252,
+                            -6.49132331557702
+                        ],
+                        [
+                            106.79243364346166,
+                            -6.49132641867827
+                        ],
+                        [
+                            106.7924211509685,
+                            -6.491222464783078
+                        ],
+                        [
+                            106.79234619600669,
+                            -6.491227119435848
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 33"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79227124104477,
+                            -6.491189882215053
+                        ],
+                        [
+                            106.79228997978532,
+                            -6.491255047350279
+                        ],
+                        [
+                            106.79233682663573,
+                            -6.491244186494356
+                        ],
+                        [
+                            106.79232589570438,
+                            -6.491179021359017
+                        ],
+                        [
+                            106.79227124104477,
+                            -6.491189882215053
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 34"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.7921385082999,
+                            -6.4912069492747975
+                        ],
+                        [
+                            106.79214163142353,
+                            -6.491289181464808
+                        ],
+                        [
+                            106.7922587485503,
+                            -6.491286078363331
+                        ],
+                        [
+                            106.79226031011223,
+                            -6.491211603927752
+                        ],
+                        [
+                            106.7921385082999,
+                            -6.4912069492747975
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 35"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79230871852576,
+                            -6.491307800071851
+                        ],
+                        [
+                            106.79229310290896,
+                            -6.491335727980527
+                        ],
+                        [
+                            106.79232901882801,
+                            -6.491346588834489
+                        ],
+                        [
+                            106.79233526507392,
+                            -6.491315557823839
+                        ],
+                        [
+                            106.79230871852576,
+                            -6.491307800071851
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 36"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79209009988631,
+                            -6.491341934182799
+                        ],
+                        [
+                            106.79209322300994,
+                            -6.491473815954322
+                        ],
+                        [
+                            106.79219003983582,
+                            -6.49146916130384
+                        ],
+                        [
+                            106.79220097076853,
+                            -6.491346588834489
+                        ],
+                        [
+                            106.79209009988631,
+                            -6.491341934182799
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 37"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.7918505545565,
+                            -6.490776313283831
+                        ],
+                        [
+                            106.79184430830924,
+                            -6.490818205191729
+                        ],
+                        [
+                            106.79190364765418,
+                            -6.490810447430832
+                        ],
+                        [
+                            106.791905209216,
+                            -6.490771658626912
+                        ],
+                        [
+                            106.7918505545565,
+                            -6.490776313283831
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 38"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79181151551381,
+                            -6.490844581575459
+                        ],
+                        [
+                            106.79181463863733,
+                            -6.4908818188217765
+                        ],
+                        [
+                            106.79187710110466,
+                            -6.490883370373751
+                        ],
+                        [
+                            106.79188647047556,
+                            -6.490838375367048
+                        ],
+                        [
+                            106.79181151551381,
+                            -6.490844581575459
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 39"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79171862470048,
+                            -6.490841389291006
+                        ],
+                        [
+                            106.79169571974455,
+                            -6.490909663687546
+                        ],
+                        [
+                            106.79178733956678,
+                            -6.490916166010962
+                        ],
+                        [
+                            106.79178733956678,
+                            -6.490851142777373
+                        ],
+                        [
+                            106.79171862470048,
+                            -6.490841389291006
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 40"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79171614594117,
+                            -6.490957787077505
+                        ],
+                        [
+                            106.79171393943744,
+                            -6.491025750210909
+                        ],
+                        [
+                            106.79179999307888,
+                            -6.491023557851761
+                        ],
+                        [
+                            106.79180440608638,
+                            -6.49095340235958
+                        ],
+                        [
+                            106.79171614594117,
+                            -6.490957787077505
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 41"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.7918617751788,
+                            -6.49118140767483
+                        ],
+                        [
+                            106.79182205811469,
+                            -6.491264717284082
+                        ],
+                        [
+                            106.79190149224485,
+                            -6.491273486715457
+                        ],
+                        [
+                            106.79191473126565,
+                            -6.49119675418298
+                        ],
+                        [
+                            106.7918617751788,
+                            -6.49118140767483
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 42"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79194120930902,
+                            -6.491203331258106
+                        ],
+                        [
+                            106.79192797028827,
+                            -6.491293217936743
+                        ],
+                        [
+                            106.79196989385616,
+                            -6.491304179725574
+                        ],
+                        [
+                            106.79199857840331,
+                            -6.491220870122888
+                        ],
+                        [
+                            106.79194120930902,
+                            -6.491203331258106
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 43"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79170952642988,
+                            -6.491291025578775
+                        ],
+                        [
+                            106.79168304838652,
+                            -6.491356796309461
+                        ],
+                        [
+                            106.79173821097703,
+                            -6.491383104599393
+                        ],
+                        [
+                            106.79178454755248,
+                            -6.491308564441439
+                        ],
+                        [
+                            106.79170952642988,
+                            -6.491291025578775
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 44"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79177351503552,
+                            -6.491319526229944
+                        ],
+                        [
+                            106.79174703699209,
+                            -6.491413797602746
+                        ],
+                        [
+                            106.7918617751788,
+                            -6.491464221817978
+                        ],
+                        [
+                            106.79191693776943,
+                            -6.491363373381603
+                        ],
+                        [
+                            106.79177351503552,
+                            -6.491319526229944
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 45"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79191914427321,
+                            -6.4913063720835
+                        ],
+                        [
+                            106.79191031825991,
+                            -6.491374335169809
+                        ],
+                        [
+                            106.79198975239012,
+                            -6.4913787198841675
+                        ],
+                        [
+                            106.79200740441843,
+                            -6.491328295660409
+                        ],
+                        [
+                            106.79191914427321,
+                            -6.4913063720835
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 46"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79191252476187,
+                            -6.4914050281728635
+                        ],
+                        [
+                            106.79188825322223,
+                            -6.491479568317473
+                        ],
+                        [
+                            106.7919478288203,
+                            -6.4915146460280795
+                        ],
+                        [
+                            106.7919765133675,
+                            -6.491409412887791
+                        ],
+                        [
+                            106.79191252476187,
+                            -6.4914050281728635
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 47"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79200961092215,
+                            -6.491426951746433
+                        ],
+                        [
+                            106.79201402392971,
+                            -6.491512453671106
+                        ],
+                        [
+                            106.79208021903725,
+                            -6.4915146460280795
+                        ],
+                        [
+                            106.7920735995259,
+                            -6.491426951746433
+                        ],
+                        [
+                            106.79200961092215,
+                            -6.491426951746433
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 48"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.7922655647738,
+                            -6.491391874174056
+                        ],
+                        [
+                            106.79228101030026,
+                            -6.491462029606097
+                        ],
+                        [
+                            106.79231852086065,
+                            -6.491466414320584
+                        ],
+                        [
+                            106.79232293386815,
+                            -6.491411605390681
+                        ],
+                        [
+                            106.7923560314228,
+                            -6.491411605390681
+                        ],
+                        [
+                            106.79235823792663,
+                            -6.491380912387115
+                        ],
+                        [
+                            106.7922655647738,
+                            -6.491391874174056
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 49"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79234279240023,
+                            -6.49145983724884
+                        ],
+                        [
+                            106.79235382491908,
+                            -6.491486145533358
+                        ],
+                        [
+                            106.79238250946622,
+                            -6.491488337890502
+                        ],
+                        [
+                            106.79238250946622,
+                            -6.49145983724884
+                        ],
+                        [
+                            106.79234279240023,
+                            -6.49145983724884
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "gedung 50"
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            106.79238250946622,
+                            -6.491402835961708
+                        ],
+                        [
+                            106.79237588995494,
+                            -6.491481760819994
+                        ],
+                        [
+                            106.79244649807185,
+                            -6.491486145533358
+                        ],
+                        [
+                            106.79243325904923,
+                            -6.491402835961708
+                        ],
+                        [
+                            106.79238250946622,
+                            -6.491402835961708
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        }
+    ]
+}
