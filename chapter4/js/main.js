@@ -1,10 +1,11 @@
 import { get } from "https://jscroot.github.io/api/croot.js";
 import { URLGeoJson } from "./template/template.js";
-import { MakeGeojsonFromAPI, responseData, AddLayerToMAP , drawer} from "./controller/controller.js";
+import { MakeGeojsonFromAPI, responseData, AddLayerToMAP, drawer } from "./controller/controller.js";
 import {map} from './config/peta.js';
-import {onClosePopupClick,onDeleteMarkerClick,onSubmitMarkerClick,onMapClick,onMapPointerMove,disposePopover} from './controller/popup.js';
+import {onClosePopupClick,onDeleteMarkerClick,onSubmitMarkerClick,onMapClick,onMapPointerMove,disposePopover, GetLonLat} from './controller/popup.js';
 import {onClick} from 'https://jscroot.github.io/element/croot.js';
 import {getAllCoordinates} from './controller/cog.js';
+import Draw from 'https://cdn.skypack.dev/ol/interaction/Draw.js';
 
 
 onClick('popup-closer',onClosePopupClick);
@@ -22,4 +23,5 @@ get(URLGeoJson,data => {
     // console.log(link)
     // console.log(geojson)
     AddLayerToMAP(link)
+    drawer(link)
 }); 
